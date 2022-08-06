@@ -1,0 +1,107 @@
+2022-08-05 16:20:31,473  INFO [main] SauceDemo11:59 - Open the Browser
+2022-08-05 16:20:31,543  INFO [main] SauceDemo11:61 - Maximize the window
+2022-08-05 16:20:37,890  INFO [main] SauceDemo11:63 - Open the URL
+2022-08-05 16:20:37,988  INFO [main] SauceDemo11:65 - Apply Waits
+2022-08-05 16:20:38,833  INFO [main] SauceDemo11:67 - Taken ScreenShot
+2022-08-05 16:20:39,524  INFO [main] SauceDemo11:74 - Enter The Username
+2022-08-05 16:20:39,633  INFO [main] SauceDemo11:76 - Enter The Passoword
+2022-08-05 16:20:40,716  INFO [main] SauceDemo11:78 - Click on login Button
+2022-08-05 16:20:40,868  INFO [main] SauceDemo11:80 - TakenScreenshot
+2022-08-05 16:20:43,555  INFO [main] SauceDemo11:87 - Close the driver
+2022-08-05 16:20:53,250  INFO [main] SauceDemo11:59 - Open the Browser
+2022-08-05 16:20:53,271  INFO [main] SauceDemo11:61 - Maximize the window
+2022-08-05 16:21:08,773  INFO [main] SauceDemo11:63 - Open the URL
+2022-08-05 16:21:08,784  INFO [main] SauceDemo11:65 - Apply Waits
+2022-08-05 16:21:08,949  INFO [main] SauceDemo11:67 - Taken ScreenShot
+2022-08-05 16:21:09,103  INFO [main] SauceDemo11:74 - Enter The Username
+2022-08-05 16:21:09,229  INFO [main] SauceDemo11:76 - Enter The Passoword
+2022-08-05 16:21:09,713  INFO [main] SauceDemo11:78 - Click on login Button
+2022-08-05 16:21:09,985  INFO [main] SauceDemo11:80 - TakenScreenshot
+2022-08-05 16:21:15,234  INFO [main] SauceDemo11:87 - Close the driver
+2022-08-05 16:21:20,510  INFO [main] SauceDemo11:59 - Open the Browser
+2022-08-05 16:21:20,536  INFO [main] SauceDemo11:61 - Maximize the window
+2022-08-05 16:21:22,346  INFO [main] SauceDemo11:63 - Open the URL
+2022-08-05 16:21:22,361  INFO [main] SauceDemo11:65 - Apply Waits
+2022-08-05 16:21:22,477  INFO [main] SauceDemo11:67 - Taken ScreenShot
+2022-08-05 16:21:22,719  INFO [main] SauceDemo11:74 - Enter The Username
+2022-08-05 16:21:22,815  INFO [main] SauceDemo11:76 - Enter The Passoword
+2022-08-05 16:21:23,160  INFO [main] SauceDemo11:78 - Click on login Button
+2022-08-05 16:21:23,245  INFO [main] SauceDemo11:80 - TakenScreenshot
+2022-08-05 16:21:25,615  INFO [main] SauceDemo11:87 - Close the driver
+2022-08-05 16:21:30,917  INFO [main] SauceDemo11:59 - Open the Browser
+2022-08-05 16:21:30,928  INFO [main] SauceDemo11:61 - Maximize the window
+2022-08-05 16:21:33,034  INFO [main] SauceDemo11:63 - Open the URL
+2022-08-05 16:21:33,058  INFO [main] SauceDemo11:65 - Apply Waits
+2022-08-05 16:21:33,178  INFO [main] SauceDemo11:67 - Taken ScreenShot
+2022-08-05 16:21:33,393  INFO [main] SauceDemo11:74 - Enter The Username
+2022-08-05 16:21:33,473  INFO [main] SauceDemo11:76 - Enter The Passoword
+2022-08-05 16:21:33,814  INFO [main] SauceDemo11:78 - Click on login Button
+2022-08-05 16:21:33,893  INFO [main] SauceDemo11:80 - TakenScreenshot
+2022-08-05 16:21:36,093  INFO [main] SauceDemo11:87 - Close the driver
+2022-08-05 16:21:40,940  INFO [main] SauceDemo11:59 - Open the Browser
+2022-08-05 16:21:40,958  INFO [main] SauceDemo11:61 - Maximize the window
+2022-08-05 16:21:49,497  INFO [main] SauceDemo11:63 - Open the URL
+2022-08-05 16:21:49,521  INFO [main] SauceDemo11:65 - Apply Waits
+2022-08-05 16:21:49,629  INFO [main] SauceDemo11:67 - Taken ScreenShot
+2022-08-05 16:21:49,749  INFO [main] SauceDemo11:74 - Enter The Username
+2022-08-05 16:21:49,811  INFO [main] SauceDemo11:76 - Enter The Passoword
+2022-08-05 16:21:50,167  INFO [main] SauceDemo11:78 - Click on login Button
+2022-08-05 16:21:50,247  INFO [main] SauceDemo11:80 - TakenScreenshot
+2022-08-05 16:21:52,452  INFO [main] SauceDemo11:87 - Close the driver
+2022-08-05 16:21:56,433  INFO [main] SauceDemo11:59 - Open the Browser
+2022-08-05 16:21:56,462  INFO [main] SauceDemo11:61 - Maximize the window
+2022-08-05 16:22:00,329  INFO [main] SauceDemo11:63 - Open the URL
+2022-08-05 16:22:00,351  INFO [main] SauceDemo11:65 - Apply Waits
+2022-08-05 16:22:00,482  INFO [main] SauceDemo11:67 - Taken ScreenShot
+2022-08-05 16:22:00,600  INFO [main] SauceDemo11:74 - Enter The Username
+2022-08-05 16:22:00,692  INFO [main] SauceDemo11:76 - Enter The Passoword
+2022-08-05 16:22:01,031  INFO [main] SauceDemo11:78 - Click on login Button
+2022-08-05 16:22:01,117  INFO [main] SauceDemo11:80 - TakenScreenshot
+2022-08-05 16:22:04,014  INFO [main] SauceDemo11:87 - Close the driver
+2022-08-05 16:22:09,250  INFO [main] SauceDemo11:59 - Open the Browser
+2022-08-05 16:22:09,272  INFO [main] SauceDemo11:61 - Maximize the window
+2022-08-05 16:22:12,183  INFO [main] SauceDemo11:63 - Open the URL
+2022-08-05 16:22:12,198  INFO [main] SauceDemo11:65 - Apply Waits
+2022-08-05 16:22:12,309  INFO [main] SauceDemo11:67 - Taken ScreenShot
+2022-08-05 16:22:12,429  INFO [main] SauceDemo11:74 - Enter The Username
+2022-08-05 16:22:12,502  INFO [main] SauceDemo11:76 - Enter The Passoword
+2022-08-05 16:22:12,857  INFO [main] SauceDemo11:78 - Click on login Button
+2022-08-05 16:22:13,155  INFO [main] SauceDemo11:80 - TakenScreenshot
+2022-08-05 16:22:52,143  INFO [main] SauceDemo11:87 - Close the driver
+2022-08-05 16:22:57,267  INFO [main] SauceDemo11:59 - Open the Browser
+2022-08-05 16:22:57,278  INFO [main] SauceDemo11:61 - Maximize the window
+2022-08-05 16:23:10,126  INFO [main] SauceDemo11:63 - Open the URL
+2022-08-05 16:23:10,136  INFO [main] SauceDemo11:65 - Apply Waits
+2022-08-05 16:23:10,241  INFO [main] SauceDemo11:67 - Taken ScreenShot
+2022-08-05 16:23:10,446  INFO [main] SauceDemo11:74 - Enter The Username
+2022-08-05 16:23:10,513  INFO [main] SauceDemo11:76 - Enter The Passoword
+2022-08-05 16:23:10,855  INFO [main] SauceDemo11:78 - Click on login Button
+2022-08-05 16:23:11,620  INFO [main] SauceDemo11:80 - TakenScreenshot
+2022-08-05 16:23:13,512  INFO [main] SauceDemo11:87 - Close the driver
+2022-08-05 23:31:15,908  INFO [main] SauceDemo11:60 - Open the Browser
+2022-08-05 23:31:15,978  INFO [main] SauceDemo11:62 - Maximize the window
+2022-08-05 23:31:22,395  INFO [main] SauceDemo11:64 - Open the URL
+2022-08-05 23:31:22,433  INFO [main] SauceDemo11:66 - Apply Waits
+2022-08-05 23:31:23,000  INFO [main] SauceDemo11:68 - Taken ScreenShot
+2022-08-05 23:34:04,979  INFO [main] SauceDemo11:60 - Open the Browser
+2022-08-05 23:34:05,015  INFO [main] SauceDemo11:62 - Maximize the window
+2022-08-05 23:36:54,020  INFO [main] SauceDemo11:60 - Open the Browser
+2022-08-05 23:36:54,053  INFO [main] SauceDemo11:62 - Maximize the window
+2022-08-05 23:36:57,905  INFO [main] SauceDemo11:64 - Open the URL
+2022-08-05 23:36:57,933  INFO [main] SauceDemo11:66 - Apply Waits
+2022-08-05 23:36:58,194  INFO [main] SauceDemo11:68 - Taken ScreenShot
+2022-08-05 23:36:58,449  INFO [main] SauceDemo11:75 - Enter The Username
+2022-08-05 23:36:58,611  INFO [main] SauceDemo11:77 - Enter The Passoword
+2022-08-05 23:36:59,085  INFO [main] SauceDemo11:79 - Click on login Button
+2022-08-05 23:36:59,199  INFO [main] SauceDemo11:81 - TakenScreenshot
+2022-08-05 23:37:00,592  INFO [main] SauceDemo11:91 - Close the driver
+2022-08-05 23:37:54,775  INFO [main] SauceDemo11:60 - Open the Browser
+2022-08-05 23:37:54,796  INFO [main] SauceDemo11:62 - Maximize the window
+2022-08-05 23:37:57,083  INFO [main] SauceDemo11:64 - Open the URL
+2022-08-05 23:37:57,154  INFO [main] SauceDemo11:66 - Apply Waits
+2022-08-05 23:37:57,492  INFO [main] SauceDemo11:68 - Taken ScreenShot
+2022-08-05 23:37:57,861  INFO [main] SauceDemo11:75 - Enter The Username
+2022-08-05 23:37:57,992  INFO [main] SauceDemo11:77 - Enter The Passoword
+2022-08-05 23:37:58,478  INFO [main] SauceDemo11:79 - Click on login Button
+2022-08-05 23:37:58,576  INFO [main] SauceDemo11:81 - TakenScreenshot
+2022-08-05 23:38:03,043  INFO [main] SauceDemo11:91 - Close the driver
